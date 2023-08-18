@@ -10,3 +10,6 @@
 [#替换空格](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReplaceSpace.java)  
 [#第一个只出现一次的字符](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/array/FirstUniqChar.java)
 
+## 链表
+[#移除链表元素](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/RemoveLinkedListElements.java)  
+[#设计单向链表]()
