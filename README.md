@@ -12,4 +12,10 @@
 
 ## 链表
 [#移除链表元素](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/RemoveLinkedListElements.java)  
-[#设计单向链表]()
+[#设计单向链表](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/MySingleLinkedList.java)  
+[#设计双向链表](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/MyDoubleLinkedList.java)  
+[#反转链表](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/ReverseLinkedList.java)  
+[#两两交换链表中的节点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/SwapNodesInPairs.java)  
+[#删除链表的倒数第N个结点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/RemoveNthNodeFromEndOfList.java)  
+[#链表相交](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/TwoLinkedListsLcci.java)
+
