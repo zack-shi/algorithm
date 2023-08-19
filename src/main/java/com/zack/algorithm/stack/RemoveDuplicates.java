@@ -1,7 +1,7 @@
 package com.zack.algorithm.stack;
 
 import java.util.Stack;
-
+//https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/
 public class RemoveDuplicates {
 
     public String removeDuplicates(String s) {
