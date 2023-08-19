@@ -7,7 +7,15 @@ package com.zack.algorithm.array;
 public class BinarySearch {
 
 
-
+    /**
+     * 思路：
+     * 1.定义数组的左边界left和右边界right，然后取左右的中间点mid=(left+right)/2
+     * 2.判断中间值是否等于目标值
+     *   2.1等于则完成查找
+     *   2.2小于说明目标值在左边，令right=mid-1
+     *   2.3大于说明目标值在右边，令left=mid+1
+     * 重复步骤2  
+     */
     public static int search(int[] nums, int target) {
         int left=0;
         int right=nums.length-1;
@@ -30,12 +38,7 @@ public class BinarySearch {
     }
 
     /**
-     * 递归
-     * @param arr
-     * @param target
-     * @param left
-     * @param right
-     * @return
+     * 递归思路跟迭代一样
      */
     public static int binary_search_recursion(int arr[],int target,int left,int right){
         int mid =(left+right)/2;
