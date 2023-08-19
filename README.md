@@ -37,4 +37,15 @@
 [#左旋转字符串](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReverseLeftWords.java)  
 [#实现 strStr()](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/StrStr.java) 待完善 
 
+## 栈与队列
+[#栈实现队列](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/stack/CQueue.java)  
+[#队列实现栈](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/stack/MyStack.java)  
+[#有效的括号](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/stack/VlidParentheses.java)  
+[#删除字符串中的所有相邻重复项](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/stack/RemoveDuplicates.java)  
+[#逆波兰表达式求值](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/stack/ReversePolishNotation.java)  
+[#滑动窗口最大值](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/heap/SlipWindowMaxValue.java)  
+[#前K个高频元素](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/queue/TopKElements.java)  
+
+
+
 
