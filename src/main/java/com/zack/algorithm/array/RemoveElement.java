@@ -28,6 +28,10 @@ public class RemoveElement {
         return j + 1;
     }
 
+    /**
+     * 思路：快慢指针，快指针寻找新数组需要的元素，然后把元素赋给新数组即慢指针，然后快慢指针都+1
+     * 快指针遇到要移除的值则跳过
+     */
     public static int removeElementNew(int[] nums, int val) {
         int slow=0;
         int fast=0;
