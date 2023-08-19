@@ -19,3 +19,22 @@
 [#删除链表的倒数第N个结点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/RemoveNthNodeFromEndOfList.java)  
 [#链表相交](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/TwoLinkedListsLcci.java)  
 [#环形链表 II](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/LinkedListCycleII.java)
+
+## 哈希表
+[#有效的字母异位词](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/ValidAnagram.java)  
+[#两个数组的交集](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/IntersectionOfTwoArrays.java)  
+[#快乐数](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/ValidAnagram.java)  
+[#两数之和](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/array/TwoSum.java)  
+[#四数相加](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/Sum4II.java)  
+[#赎金信](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/RansomNote.java)  
+[#三数之和](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/Sum3.java)  
+
+## 字符串
+[#反转字符串](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReverseString.java)  
+[#反转字符串 II](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReverseStringII.java)  
+[#替换空格](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReplaceSpace.java)
+[#翻转字符串里的单词](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReverseWords.java)  
+[#左旋转字符串](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/ReverseLeftWords.java)  
+[#实现 strStr()](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/string/StrStr.java) 待完善 
+
+
