@@ -123,7 +123,8 @@ public class SortedSquares {
         return a;
     }
 
-    //换个思路 两边往中间 更牛皮
+    //换个思路 两边往中间，因为本来就是有序数组，不管有没有负数，两边的值的平方是最大，往中间则是递减
+    //然后赋给新数组
     public static int[] sortedSquares_new2(int[] nums) {
         int n=nums.length;
         int i=0;
