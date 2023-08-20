@@ -18,7 +18,12 @@ public class SpiralMatrixII {
         }
     }
 
-
+    /**
+     * [[1,2,3],
+     * [8,9,4],
+     * [7,6,5]]
+     * 模拟顺时针画矩阵
+     */
     public static int[][] generateMatrix(int n) {
         int nn=n*n;
         int count=1;
@@ -28,23 +33,23 @@ public class SpiralMatrixII {
 
         while(n>0&&count<=nn){
             n=n-1;
-            if(n==j&&n==i){
+            if(n==j&&n==i){ //终止条件
                 a[i][j]=count;
                 break;
             }
-            for(;j<n;j++){
+            for(;j<n;j++){//从左上到右上(左闭右开)
                 a[i][j]=count;
                 count++;
             }
-            for(;i<n;i++){
+            for(;i<n;i++){ //从右上到右下(左闭右开)
                 a[i][j]=count;
                 count++;
             }
-            for(;j>k-n-1;j--){
+            for(;j>k-n-1;j--){//从右下到左下(左闭右开)
                 a[i][j]=count;
                 count++;
             }
-            for(;i>k-n-1;i--){
+            for(;i>k-n-1;i--){//从左下到左上(左闭右开)
                 a[i][j]=count;
                 count++;
             }

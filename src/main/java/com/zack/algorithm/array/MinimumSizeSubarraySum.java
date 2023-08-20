@@ -2,7 +2,7 @@ package com.zack.algorithm.array;
 
 /**
  * https://leetcode.cn/problems/minimum-size-subarray-sum/
- * 长度最小的子数组
+ * 长度最小的子数组，主要使用滑动窗口的解法
  */
 public class MinimumSizeSubarraySum {
 
@@ -56,19 +56,20 @@ public class MinimumSizeSubarraySum {
      * @return
      */
     public static int minSubArrayLen(int target, int[] nums){
-        int sum=0;
-        int i=0;
-        int minlen=nums.length;
-        boolean hasSum=false;
-        for(int j=0;j<nums.length;j++){
-            sum=sum+nums[j];
-            while (sum>=target){
+        int sum=0; //滑动窗口所有元素和
+        int i=0; //滑动窗口左边界
+        int minlen=nums.length;//滑动窗口最小长度
+        boolean hasSum=false;//是否能找到目标子数组的标志
+        for(int j=0;j<nums.length;j++){//j为滑动窗口右边界，往右移动右边界
+            sum=sum+nums[j]; //同时计算窗口内的子数组和
+            while (sum>=target){//判断和是否满足>=目标值，如果满足，则左边界加1，并更新最小长度
                 int len=j-i+1;
                 minlen=len<minlen?len:minlen;
-                sum=sum-nums[i];
+                sum=sum-nums[i];//和要减掉原来的左边界值
                 ++i;
                 hasSum=true;
             }
+            //如果和不满足>=目标值，右边界 j+1
         }
         if(!hasSum){
             return 0;

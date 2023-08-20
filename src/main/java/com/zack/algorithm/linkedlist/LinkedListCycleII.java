@@ -12,10 +12,17 @@ package com.zack.algorithm.linkedlist;
  */
 public class LinkedListCycleII {
 
-
+    /**
+     * 快慢指针，慢指针走一步，快指针走两部，两个指针一定在环中相遇
+     * 假设从头结点到环形入口节点 的节点数为x。 环形入口节点到 fast指针与slow指针相遇节点 节点数为y。 从相遇节点 再到环形入口节点节点数为 z
+     * 相遇时： slow指针走过的节点数为: x + y， fast指针走过的节点数：x + y + n (y + z)，n为fast指针在环内走了n圈
+     * 通过整理计算后得 x = (n - 1) (y + z) + z
+     * 结论，两个节点，一个从相遇节点出发，一个从起始出发，每次走一步，一定能在环的入口相遇
+     */
     public ListNode detectCycle(ListNode head) {
         ListNode fast=head;
         ListNode slow=head;
+        //找到环中相遇节点
         while (fast!=null&&fast.next!=null){
             fast=fast.next.next;
             slow=slow.next;
@@ -24,14 +31,14 @@ public class LinkedListCycleII {
             }
         }
         if(fast==null||fast.next==null){
-            return null;
+            return null;//无环
         }
         fast=head;
-        while (slow!=fast){
+        while (slow!=fast){ //一个从起始出发，每次走一步，一定能在环的入口相遇
            fast=fast.next;
            slow=slow.next;
         }
-        return fast;
+        return fast; //返回入口节点
     }
 
 
