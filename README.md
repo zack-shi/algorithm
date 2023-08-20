@@ -46,6 +46,32 @@
 [#滑动窗口最大值](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/heap/SlipWindowMaxValue.java)  
 [#前K个高频元素](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/queue/TopKElements.java)  
 
-
+## 二叉树
+[#二叉树的中序遍历，递归&统一迭代](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/InorderTraversal.java)  
+[#二叉树的层序遍历](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/LevelOrderTraversal.java)  
+[#翻转二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/InvertTree.java)  
+[#对称二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SymmetricTree.java)  
+[#二叉树的最大深度](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/MaxDepthOfTree.java)  
+[#二叉树的最小深度](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/MinDepthOfTree.java)  
+[#完全二叉树的节点个数](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/CountCompleteTree.java)  
+[#平衡二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/BalancedBinaryTree.java)  
+[#二叉树的所有路径](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/BinaryTreePaths.java)  
+[#左叶子之和](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SumLeftLeave.java)  
+[#找树左下角的值](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/FindBottomLeft.java)  
+[#路径总和](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/PathSum.java)  
+[#从中序与后序遍历序列构造二叉树]()待完善  
+[#最大二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/MaximumBinaryTree.java)  
+[#合并二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/MergeTwoBinaryTrees.java)  
+[#二叉搜索树中的搜索](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SearchInABinarySearchTree.java)  
+[#验证二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/ValidBST.java)  
+[#二叉搜索树的最小绝对差](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/MinimumDifferenceBST.java)  
+[#二叉搜索树中的众数](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/FindModeBST.java)  
+[#二叉树的最近公共祖先](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/LowestCommonAncestor.java)  
+[#二叉搜索树的最近公共祖先](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/LowestCommonAncestorBST.java)  
+[#二叉搜索树中的插入操作](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/InsertBST.java)  
+[#删除二叉搜索树中的节点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/DeleteBST.java)  
+[#修剪二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/TrimBST.java)  
+[#将有序数组转换为二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SortedArrayToBST.java)  
+[#把二叉搜索树转换为累加树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/convertBST2Greater.java)  
 
 
