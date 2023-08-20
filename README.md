@@ -1,4 +1,4 @@
-# zack的刷题笔记总结
+# zack的刷题笔记梳理
 ## 数组与矩阵
 [二分查找](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/array/BinarySearch.java)  
 [移除元素](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/array/RemoveElement.java)(双指针)  
