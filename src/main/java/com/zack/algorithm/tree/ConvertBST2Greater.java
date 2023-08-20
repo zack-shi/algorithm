@@ -1,6 +1,6 @@
 package com.zack.algorithm.tree;
 
-public class convertBST2Greater {
+public class ConvertBST2Greater {
 
     int preSum=0;
     int preVal=0;
