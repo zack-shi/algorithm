@@ -18,7 +18,8 @@
 [两两交换链表中的节点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/SwapNodesInPairs.java)  
 [删除链表的倒数第N个结点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/RemoveNthNodeFromEndOfList.java)(双指针)  
 [链表相交](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/TwoLinkedListsLcci.java)(双指针)  
-[环形链表 II](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/LinkedListCycleII.java)(双指针)
+[环形链表 II](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/LinkedListCycleII.java)(双指针)  
+[合并两个排序的链表](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/MergeTwoLists.java)
 
 ## 哈希表
 [有效的字母异位词](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/ValidAnagram.java)  
