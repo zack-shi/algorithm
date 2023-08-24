@@ -75,6 +75,8 @@
 [将有序数组转换为二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SortedArrayToBST.java)  
 [把二叉搜索树转换为累加树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/convertBST2Greater.java)  
 [树的子结构](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/CheckIsSubStructure.java)  
-[重建二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/RebuildBinaryTree.java)
+[重建二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/RebuildBinaryTree.java)  
+[二叉树的下一个结点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/GetNextNode.java)  
+
 
 
