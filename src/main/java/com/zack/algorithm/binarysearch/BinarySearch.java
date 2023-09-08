@@ -1,4 +1,4 @@
-package com.zack.algorithm.array;
+package com.zack.algorithm.binarysearch;
 
 /**
  * https://leetcode.cn/problems/binary-search/
