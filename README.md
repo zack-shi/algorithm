@@ -20,7 +20,7 @@
 [链表相交](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/TwoLinkedListsLcci.java)(双指针)  
 [环形链表 II](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/LinkedListCycleII.java)(双指针)  
 [合并两个排序的链表](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/MergeTwoLists.java)
-
+[复杂链表的复制(深拷贝)](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/linkedlist/CopyRandomList.java)
 ## 哈希表
 [有效的字母异位词](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/ValidAnagram.java)  
 [两个数组的交集](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/hash/IntersectionOfTwoArrays.java)  
@@ -74,5 +74,9 @@
 [修剪二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/TrimBST.java)  
 [将有序数组转换为二叉搜索树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/SortedArrayToBST.java)  
 [把二叉搜索树转换为累加树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/convertBST2Greater.java)  
+[树的子结构](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/CheckIsSubStructure.java)  
+[重建二叉树](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/RebuildBinaryTree.java)  
+[二叉树的下一个结点](https://github.com/zack-shi/algorithm/blob/master/src/main/java/com/zack/algorithm/tree/GetNextNode.java)  
+
 
 
